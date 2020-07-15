@@ -2,9 +2,8 @@
 
 ---
 
-### Category Name 1 
+### Design 
 
-[Project 1 Title](/sample_page)
 <img src="images/01.png?raw=true"/>
 <img src="images/news.png?raw=true"/>
 
@@ -19,7 +18,7 @@
 
 ---
 
-### Category Name 2
+### Code
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
