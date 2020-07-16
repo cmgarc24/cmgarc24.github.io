@@ -8,6 +8,7 @@
 
 ---
 [Trim](http://example.com/)
+<img src="images/code2.png?raw=true"/>
 <img src="images/trim.png?raw=true"/>
 
 ---
