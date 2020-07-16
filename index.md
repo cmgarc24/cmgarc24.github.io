@@ -8,7 +8,7 @@
 
 ---
 [Trim](http://example.com/)
-<img src="images/code2.png?raw=true"/>
+<img src="images/trim.png?raw=true"/>
 
 ---
 ### Design 
@@ -22,16 +22,11 @@
 
 ---
 
-### Project Year
-
-
-- [Angel Eyes](http://example.com/)
-- [Trim](http://example.com/)
+### Code Links
 
 ---
-
-
-
+- [Angel Eyes](http://example.com/)
+- [Trim](http://example.com/)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
