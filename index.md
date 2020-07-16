@@ -3,27 +3,33 @@
 ---
 
 ### Design 
-
+[2020]
 <img src="images/01.png?raw=true"/>
 <img src="images/safety.png?raw=true"/>
 
 ---
+[2018]
 <img src="images/02.png?raw=true"/>
 <img src="images/techcon.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+### Code
+---
+[2019](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[2017](http://example.com/)
+<img src="images/code2.png?raw=true"/>
 
-### Code
+---
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Project Year
+
+- [2020](http://example.com/)
+- [2019](http://example.com/)
+- [2018](http://example.com/)
+- [2017](http://example.com/)
 
 ---
 
