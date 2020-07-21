@@ -14,7 +14,7 @@
 ### Design 
 ---
 <img src="images/01.png?raw=true"/>
-<img src="images/safety.png?raw=true"/>
+<img src="images/news.png?raw=true"/>
 
 ---
 <img src="images/02.png?raw=true"/>
