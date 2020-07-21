@@ -3,8 +3,8 @@
 ---
 ### Code
 ---
-<img src="images/code1.png?raw=true"/>
 <img src="images/cv.png?raw=true"/>
+<img src="images/openc.png?raw=true"/>
 
 ---
 <img src="images/code2.png?raw=true"/>
